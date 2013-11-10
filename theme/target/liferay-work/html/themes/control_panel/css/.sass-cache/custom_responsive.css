@@ -1,0 +1,12 @@
+@media (max-width: 979px) {
+  .aui .dockbar .navbar-inner .container #_145_navAddControlsNavbarBtn, .aui .dockbar .navbar-inner .container #_145_navSiteNavigationNavbarBtn {
+    display: none; }
+  .aui .dockbar .navbar-inner .container .brand {
+    font-size: 16px;
+    padding: 18px 0 0 0; }
+  .aui .dockbar .navbar-inner .container .btn-navbar {
+    float: right; } }
+@media (max-width: 767px) {
+  .aui .control-panel-home-actions {
+    display: none; } }
+

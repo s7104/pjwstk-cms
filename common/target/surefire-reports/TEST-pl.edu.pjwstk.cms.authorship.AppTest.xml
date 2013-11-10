@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.003" errors="0" skipped="0" tests="1" name="pl.edu.pjwstk.cms.authorship.AppTest">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="SAMSUNG"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="liferay.lib.portal.dir" value="C:\Users\Piotr Sukiennik\Documents\GitHub\pjwstk-cms\theme\target\liferay-work\appServerPortalDir\WEB-INF\lib/"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.name" value="Windows 8"/>
+    <property name="env.FP_NO_HOST_CHECK" value="NO"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_40\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_40\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_40\jre\classes"/>
+    <property name="env.COMPUTERNAME" value="SAMSUNG"/>
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.country.format" value="PL"/>
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="1.7.0_40-b43"/>
+    <property name="env.HOMEPATH" value="\Users\Piotr Sukiennik"/>
+    <property name="com.sun.media.jai.disableMediaLib" value="true"/>
+    <property name="env.__COMPAT_LAYER" value="DetectorsWin7"/>
+    <property name="user.name" value="Piotr Sukiennik"/>
+    <property name="user.language.format" value="pl"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="log4j.configure.on.startup" value="true"/>
+    <property name="org.quartz.threadPool.makeThreadsDaemons" value="true"/>
+    <property name="idea.launcher.bin.path" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\bin"/>
+    <property name="com.liferay.util.axis.SimpleHTTPSender.regexp.pattern" value=".*mappoint.net.*"/>
+    <property name="user.language" value="en"/>
+    <property name="base.path" value="."/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_40\jre\bin"/>
+    <property name="classworlds.conf" value="C:\Program Files (x86)\apache-maven-3.1.0\bin\m2.conf"/>
+    <property name="java.version" value="1.7.0_40"/>
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="user.timezone" value="UTC"/>
+    <property name="env.TEMP" value="C:\Users\PIOTRS~1\AppData\Local\Temp"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="default.liferay.home" value="C:/Users/Piotr Sukiennik/Documents/GitHub/pjwstk-cms/liferay"/>
+    <property name="env.APR_ICONV_PATH" value="C:\Program Files (x86)\Subversion\iconv"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_40\jre\lib\endorsed"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="env.HOMEDRIVE" value="C:"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="com.liferay.portal.kernel.util.StreamUtil.buffer.size" value="8192"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_40\jre"/>
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="env.APPDATA" value="C:\Users\Piotr Sukiennik\AppData\Roaming"/>
+    <property name="env.PUBLIC" value="C:\Users\Public"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="env.OS" value="Windows_NT"/>
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="os.version" value="6.2"/>
+    <property name="com.liferay.portal.kernel.util.StreamUtil.force.tio" value="false"/>
+    <property name="env.ProgramW6432" value="C:\Program Files"/>
+    <property name="liferay.web.portal.dir" value="C:\Users\Piotr Sukiennik\Documents\GitHub\pjwstk-cms\theme\target\liferay-work\appServerPortalDir\WEB-INF\lib/"/>
+    <property name="com.liferay.portal.kernel.util.StringBundler.unsafe.create.limit" value="0"/>
+    <property name="ical4j.validation.relaxed" value="true"/>
+    <property name="env.=::" value="::\"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="24.0-b56"/>
+    <property name="ehcache.disk.store.dir" value="C:/Users/Piotr Sukiennik/Documents/GitHub/pjwstk-cms/liferay/data/ehcache"/>
+    <property name="env.USERPROFILE" value="C:\Users\Piotr Sukiennik"/>
+    <property name="user.variant" value=""/>
+    <property name="env.JAVA_HOME" value="C:\Java\jdk1.5.0_07"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="env.TMP" value="C:\Users\PIOTRS~1\AppData\Local\Temp"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="user.script" value=""/>
+    <property name="liferay.lib.global.shared.dir" value="/C:/Users/Piotr Sukiennik/.m2/repository/javax/servlet/servlet-api/2.5/"/>
+    <property name="user.home" value="C:\Users\Piotr Sukiennik"/>
+    <property name="ical4j.parsing.relaxed" value="true"/>
+    <property name="env.ProgramData" value="C:\ProgramData"/>
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="env.SESSIONNAME" value="Console"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_40\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\bin\..\.\bin;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\bin\..\.\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Java\jdk1.5.0_07\bin;C:\Program Files (x86)\apache-maven-3.1.0\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\apache-ant-1.9.2\bin;C:\Program Files\PostgreSQL\9.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;c:\program files\java\jdk1.7.0_40\jre\bin;c:\program files\java\jdk1.7.0_40\jre\bin;."/>
+    <property name="env.NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files (x86)\apache-maven-3.1.0"/>
+    <property name="java.class.path" value="C:\Program Files (x86)\apache-maven-3.1.0\boot\plexus-classworlds-2.4.2.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\lib\idea_rt.jar"/>
+    <property name="sun.java.command" value="com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher --fail-fast --strict-checksums install"/>
+    <property name="env.JBOSS_HOME" value="C:\rjps\jboss"/>
+    <property name="com.sun.jndi.ldap.connect.pool.maxsize" value="50"/>
+    <property name="idea.launcher.port" value="7533"/>
+    <property name="liferay.home" value="C:/Users/Piotr Sukiennik/Documents/GitHub/pjwstk-cms/liferay"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="ical4j.compatibility.outlook" value="true"/>
+    <property name="env.windir" value="C:\WINDOWS"/>
+    <property name="env.LOGONSERVER" value="\\MicrosoftAccount"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="liferay.lib.global.dir" value="/C:/Users/Piotr Sukiennik/.m2/repository/com/liferay/portal/portal-service/6.1.1/"/>
+    <property name="java.awt.headless" value="true"/>
+    <property name="env.ProgramFiles" value="C:\Program Files"/>
+    <property name="env.ANT_HOME" value="C:\Program Files (x86)\apache-ant-1.9.2"/>
+    <property name="java.io.tmpdir" value="C:\Users\PIOTRS~1\AppData\Local\Temp\"/>
+    <property name="env.PROCESSOR_REVISION" value="3a09"/>
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="env.SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_40\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="env.=D:" value="D:\"/>
+    <property name="user.dir" value="C:\Users\Piotr Sukiennik\Documents\GitHub\pjwstk-cms"/>
+    <property name="env.LOCALAPPDATA" value="C:\Users\Piotr Sukiennik\AppData\Local"/>
+    <property name="com.liferay.util.servlet.SessionParameters" value="false"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="env.Path" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\bin\..\.\bin;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.5\bin\..\.\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Java\jdk1.5.0_07\bin;C:\Program Files (x86)\apache-maven-3.1.0\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\apache-ant-1.9.2\bin;C:\Program Files\PostgreSQL\9.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;c:\program files\java\jdk1.7.0_40\jre\bin;c:\program files\java\jdk1.7.0_40\jre\bin"/>
+    <property name="com.liferay.portal.kernel.util.StringBundler.threadlocal.buffer.limit" value="0"/>
+    <property name="env.USERNAME" value="Piotr Sukiennik"/>
+    <property name="ical4j.unfolding.relaxed" value="true"/>
+    <property name="env.SystemDrive" value="C:"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="com.sun.jndi.ldap.connect.pool.timeout" value="10000"/>
+    <property name="env.USERDOMAIN" value="SAMSUNG"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="com.liferay.util.Encryptor.provider.class" value="com.sun.crypto.provider.SunJCE"/>
+    <property name="env.PROCESSOR_LEVEL" value="6"/>
+  </properties>
+  <testcase time="0.003" classname="pl.edu.pjwstk.cms.authorship.AppTest" name="testApp"/>
+</testsuite>
